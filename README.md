@@ -6,7 +6,6 @@ const developer = {
   location: "Earth 🌍",
   code: ["Python", "R", "C++", "Go"],
   love: ["Gen AI", "Machine Learning", "Statistical Modeling", "Data Engineering"],
-  funFact: "works on my machine 🚀"
 };
 ```
 
@@ -15,7 +14,6 @@ const developer = {
 * 🛠️ love optimizing ML inference in CUDA
 * ⚡ latency hunter, throughput enjoyer
 * 🏗️ Building scalable data and ML pipelines
-* 📊 care about statistical rigor more than flashy metrics
 * 🌐 big data, GPUs, and systems engineering
 * 🌱 constantly learning new tech
   
@@ -28,7 +26,7 @@ const developer = {
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-### Data Stack
+### Data/ML Stack
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -41,16 +39,11 @@ const developer = {
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CE2?style=flat&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-
-### Visualization & BI
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4FAD?style=flat&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-4E73A7?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
-### Databases, Warehouses & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
@@ -62,7 +55,6 @@ const developer = {
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-
 ### GenAI & MLOps
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
@@ -72,15 +64,6 @@ const developer = {
 ![Pinecone](https://img.shields.io/badge/Pinecone-1A1A1A?style=flat&logo=pinecone&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4500?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-046A38?style=flat&logo=meta&logoColor=white)
-
----
-
-## connect with me
-
-```bash
-linkedin  > in/netsid/
-email     > sideygupta@gmail.com
-```
 
 ---
 
@@ -101,10 +84,15 @@ Existential Dread : 90%
 *Error: OutofMemoryError (CUDA out of memory). Please insert espresso to continue optimization.*
 ```
 
+## connect with me
 
+```bash
+$ linkedin > in/netsid/
+$ kaggle > kaggle.com/s1drtx
+$ email > sideygupta@gmail.com
+```
 
 ---
-
 ### Visitor Counter
 
 ![](https://komarev.com/ghpvc/?username=0xs1d\&color=blueviolet)
