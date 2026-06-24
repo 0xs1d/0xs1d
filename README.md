@@ -15,7 +15,8 @@ const developer = {
 * ⚡ latency hunter, throughput enjoyer
 * 🏗️ Building scalable data and ML pipelines
 * 🌐 big data, GPUs, and systems engineering
-* 🌱 constantly learning new tech
+* 🌱 lowkey obsessed with oss
+* ⮝ I use arch btw ... mic drop 💀
   
 ## 🧰 tech stack
 
