@@ -1,23 +1,16 @@
-```js
-const developer = {
-  name: "Sidharth",
-  coordinates: "0° N, 0° E (Earth) 🌍",
-  compute: {
-    languages: ["Python", "C++", "Julia", "R"],
-    accelerators: ["CUDA", "TensorRT"],
-  },
-  specialties: ["Gen AI / LLMs", "Machine Learning", "Data Engineering"],
-  status: "Transforming raw matrices into intelligence 🧠",
-};
+# Hi, I'm Sidharth 👋
 
+```bash
+$ whoami
+> ML Engineer • CUDA • LLM Systems • Data Engineering
 ```
+
 ## 🥪 Tech Stack
 
 #### 💻 Core Languages & Compute
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=ONNX&logoColor=white)
@@ -32,7 +25,6 @@ const developer = {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 [![JAX](https://custom-icon-badges.demolab.com/badge/JAX-222827?style=flat&logo=jax&logoColor=ffffff)](#)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=fff)](#)
 [![Optuna](https://img.shields.io/badge/Optuna-002C76?style=flat&logo=optuna&logoColor=ffffff)](#)
 
 #### 📊 Data Engineering & Analytics
@@ -42,7 +34,6 @@ const developer = {
 ![Snowflake](https://img.shields.io/badge/Snowflake-2699FB?style=flat&logo=snowflake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
@@ -52,7 +43,6 @@ const developer = {
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -64,19 +54,21 @@ const developer = {
 #### thanks for stopping by ✨
 
 ```text
-🔌 SCANNING HARDWARE TOPOLOGY FOR LOCAL INFERENCE:
+$ nvidia-smi
 
-┌── NVIDIA H100 GPU (80GB VRAM) ──────────────────────────┐
-│ [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% Saturated │
-└──── Active Engine: TensorRT Custom LLM Pipeline ────────┘
-┌── BIOLOGICAL CPU CORE ──────────────────────────────────┐
-│ [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░]  50% Throttled │
-└────── Current Status: Matrix Multiplication Loop ───────┘
-┌── LLM CONTEXT WINDOW STATUS ────────────────────────────┐
-│ [██████████████████████████████████████] 131k / 131k    │
-└─── Memory State: 1-Bit quantized brain processing chaos─┘
++---------------------------------------------------------------+
+| GPU Utilization        [████████████████████] 100%            |
+| Tensor Cores           [████████████████████] Active          |
+| KV Cache               [█████████████████░░░] Warm            |
+| Human                  [█████░░░░░░░░░░░░░░] Thinking...      |
++---------------------------------------------------------------+
 
-*Action Required: Press [ANY KEY] to fork my repositories or run `nvcc --compile-coffee`.*
+Current Process:
+while (alive) {
+    optimize();
+    git commit;
+    start_another_side_project();
+}
 ```
 
 #### Visitor Counter
