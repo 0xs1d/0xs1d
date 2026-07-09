@@ -4,9 +4,9 @@ $ whoami
 >> ML Engineer • CUDA • LLM Systems • Data Engineering
 
 $ /etc/stack/core
->> Languages:  C++, CUDA, Python, Bash, Julia, SQL
->> AI/ML:      PyTorch, JAX, ONNX, Ollama, LangChain
->> Data/Ops:   Spark, Databricks, Snowflake, BigQuery, Docker, Airflow
+>> Languages :: C++, CUDA, Python, R, SQL
+>> AI/ML     :: PyTorch, JAX, Ollama, LangChain, Guardrails
+>> Data/Ops: :: Spark, Hadoop, Databricks, Snowflake, BigQuery, Airflow
 
 $ /var/log/activity 
 - sleep()
