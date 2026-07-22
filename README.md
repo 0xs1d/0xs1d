@@ -1,18 +1,19 @@
 # Sidharth // `0xs1d`
-```diff
+
+```bash
 $ whoami
->> ML Engineer • CUDA • LLM Systems • Data Engineering
+Backend Engineer | Data Engineer | ML Engineer
 
-$ /etc/stack/core
->> Languages :: C++, CUDA, Python, R, SQL
->> AI/ML     :: PyTorch, JAX, Ollama, LangChain, Guardrails
->> Data/Ops: :: Spark, Hadoop, Databricks, Snowflake, BigQuery, Airflow
+$ mission
+Design systems where software, data, and machine learning
+work together at scale.
 
-$ /var/log/activity 
-- sleep()
-+ optimize_kernels()
-+ git_commit_push()
-+ spawn_side_project()
+$ stack
+backend : Python Go FastAPI Django REST
+data    : Spark Airflow dbt PostgreSQL
+ml      : PyTorch TensorFlow scikit-learn MLflow
+infra   : Docker Kubernetes AWS Terraform Linux
 
-! STATUS: ACTIVE
+$ status
+building > learning > repeating
 ```
