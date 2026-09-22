@@ -1,16 +1,15 @@
-## Hi there 👋
+### `$~ 0xs1d>`
 
-<!--
-**0xs1d/0xs1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Professional building data-driven systems on the cloud.**
 
-Here are some ideas to get you started:
+**Python · SQL · Machine Learning · Data Engineering · Cloud**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Publications
+
+[DeepMedFuseX — Explainable DeepFake Cancer CT Scan Classification](https://ieeexplore.ieee.org/document/11048804)
+
+[Semantic Fusion of Text and Images — Multimodal RAG for Document Analysis](https://ieeexplore.ieee.org/document/11048821)
+
+### Contact
+
+[sideygupta@gmail.com](mailto:sideygupta@gmail.com)
